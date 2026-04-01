@@ -1,0 +1,1 @@
+ Un Hola Mundo que muestra el uso de la funcion printf y la estructura de un programa en C :D
